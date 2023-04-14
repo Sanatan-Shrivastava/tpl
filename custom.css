@@ -20,15 +20,16 @@
   font-size: 17px;
 }
 
-.custom-a {
+.csta {
   font-size: larger;
-  color: #f8dd5c;
+  font-weight: 300;
+  color: #130d6f;
   border-radius: 0.7rem;
 }
 
 .custom-a:hover {
   font-size: larger;
-  color: #130d6f;
+  /* color: #130d6f; */
 }
 
 .custom-alert {
