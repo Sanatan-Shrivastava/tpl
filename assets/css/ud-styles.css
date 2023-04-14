@@ -1344,7 +1344,7 @@ p {
 
 /* ===== Contact CSS ===== */
 .ud-contact {
-  padding: 120px 0px;
+  padding: 20px 0px;
   position: relative;
 }
 
@@ -1362,7 +1362,7 @@ p {
   top: 0;
   left: 0;
   height: 50%;
-  background: #f3f4fe;
+  background: #f8dd5c;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1502,11 +1502,12 @@ p {
 
 /* ===== Footer CSS ===== */
 .ud-footer {
-  background: #f3f4fe;
-  padding-top: 100px;
+  background: #f8dd5c;
+  padding-top: 60px;
   position: relative;
   z-index: 1;
   overflow: hidden;
+  padding-bottom: 3em;
 }
 
 .ud-footer .shape {
